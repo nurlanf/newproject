@@ -1,4 +1,0 @@
-[submodule "erpgo/logistics"]
-	path = erpgo/logistics
-	url = git@github.com:erpgo/logistics.git
-	branch = demo
